@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DanilIntent">
         <activity
+            android:name=".MoveForResultActivity"
+            android:exported="false" />
+        <activity
             android:name=".SecondActivity"
             android:exported="false" />
         <activity

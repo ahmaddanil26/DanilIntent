@@ -11,11 +11,10 @@
         android:text="@string/data_recived"
         android:id="@+id/tv_data_recived" />
     <Button
-        android:id="@+id/btnback"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Kembali"
         android:textSize="20sp"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:text="Kembali" />
 
 </RelativeLayout>
